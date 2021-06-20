@@ -1,0 +1,24 @@
+#categorie{
+    border:1px dotted #000066;
+    min-height:400px;
+    padding:3px;
+    width:200px;
+    border-radius: 5px 5px 5px 5px;
+    }
+
+    #contenu{
+        border:1px dotted #000066;
+        min-height:400px;
+        padding : 3px;
+        border-radius:  5px 5px 5px 5px;
+    }
+
+    .produit{
+        border:1px dotted #000066;
+        height: 180px;
+        margin: 2px;
+        padding : 3px;
+        float : left;
+        width: 400px;
+        border-radius: 5px 5px 5px 5px;
+    }
